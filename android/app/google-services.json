@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489001432287",
+    "project_id": "airin-ff840",
+    "storage_bucket": "airin-ff840.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489001432287:android:fdc175b154f889afb2e56a",
+        "android_client_info": {
+          "package_name": "com.airin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtNMs0t2lnUaXylgy5z6IgUKbFyMeOWjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
